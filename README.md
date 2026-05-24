@@ -17,17 +17,16 @@ The goal is to analyze model performance, training behavior, and classification 
 ## 🎥 Demo / Output
 
 ### 🔹 Model Accuracy
-![Prediction](<img width="640" height="480" alt="accuracy" src="https://github.com/user-attachments/assets/978fe724-69d3-479b-b325-2abf8e6b8f58" />
-)https://colab.research.google.com/drive/1BZvTD1BM8JWzCmVuEwzLq9tn6k5V_l3O#scrollTo=mfx79oEbaCIX&fullscreenOutput=true
+![Prediction](https://colab.research.google.com/drive/1BZvTD1BM8JWzCmVuEwzLq9tn6k5V_l3O#scrollTo=mfx79oEbaCIX&fullscreenOutput=true)
 
 ### 🔹 Model Loss
-![Prediction](outputs/loss.png)https://colab.research.google.com/drive/1BZvTD1BM8JWzCmVuEwzLq9tn6k5V_l3O#scrollTo=Y6nKyiRjaEow&fullscreenOutput=true
+![Prediction](https://colab.research.google.com/drive/1BZvTD1BM8JWzCmVuEwzLq9tn6k5V_l3O#scrollTo=Y6nKyiRjaEow&fullscreenOutput=true)
 
 ### 🔹 Sample Prediction
-![Prediction](outputs/prediction.png)https://colab.research.google.com/drive/1BZvTD1BM8JWzCmVuEwzLq9tn6k5V_l3O#scrollTo=jDDCJ0BtYvJ5&fullscreenOutput=true
+![Prediction]([outputs/prediction.png](https://colab.research.google.com/drive/1BZvTD1BM8JWzCmVuEwzLq9tn6k5V_l3O#scrollTo=jDDCJ0BtYvJ5&fullscreenOutput=true))
 
 ### 🔹 Confusion Matrix
-![Confusion Matrix](outputs/confusion_matrix.png)https://colab.research.google.com/drive/1BZvTD1BM8JWzCmVuEwzLq9tn6k5V_l3O#scrollTo=5zjVhc69aH91&fullscreenOutput=true
+![Confusion Matrix](https://colab.research.google.com/drive/1BZvTD1BM8JWzCmVuEwzLq9tn6k5V_l3O#scrollTo=5zjVhc69aH91&fullscreenOutput=true)
 
 ---
 
