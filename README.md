@@ -8,7 +8,7 @@
 ---
 
 ## 📌 Project Overview
-This project presents a Convolutional Neural Network (CNN) implementation for image classification on the CIFAR-10 dataset using TensorFlow/Keras.
+This project implements a Convolutional Neural Network (CNN) using TensorFlow/Keras to classify CIFAR-10 images, achieving 71.06% test accuracy, with detailed analysis of model behavior and limitations.
 
 The goal is to analyze model performance, training behavior, and classification limitations through practical experimentation and evaluation.
 
@@ -43,15 +43,24 @@ git clone https://github.com/your-username/Image-Identification.git
 cd Image-Identification
 ```
 
-2. Install Dependencies
+### 2. Install Dependencies
 ```bash
 pip install tensorflow matplotlib numpy scikit-learn seaborn
 ```
 
-3. Run the Notebook / Script
+### 3. Run the Notebook / Script
 ```bash
 python main.py
 ```
+
+---
+
+## 📁 Project Structure
+
+├── main.py
+├── model.py
+├── outputs/
+├── README.md
 
 ---
 
@@ -66,7 +75,9 @@ python main.py
 - Dense (128 units, ReLU)
 - Output Layer (Softmax - 10 classes)
 
-Total Parameters: 356,810
+```markdown
+**Total Parameters:** 356,810
+```
 
 ---
 
