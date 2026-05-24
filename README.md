@@ -14,6 +14,22 @@ The goal is to analyze model performance, training behavior, and classification 
 
 ---
 
+## 🎥 Demo / Output
+
+### 🔹 Model Accuracy
+![Prediction](outputs/accuracy.png)
+
+### 🔹 Model Loss
+![Prediction](outputs/loss.png)
+
+### 🔹 Sample Prediction
+![Prediction](outputs/prediction.png)
+
+### 🔹 Confusion Matrix
+![Confusion Matrix](outputs/confusion_matrix.png)
+
+---
+
 ## 🎯 Objectives
 - Implement CNN using TensorFlow/Keras
 - Train model on CIFAR-10 dataset
