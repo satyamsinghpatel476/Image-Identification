@@ -21,13 +21,16 @@ The goal is to analyze model performance, training behavior, and classification 
 
 
 ### 🔹 Model Loss
-![Prediction](https://colab.research.google.com/drive/1BZvTD1BM8JWzCmVuEwzLq9tn6k5V_l3O#scrollTo=Y6nKyiRjaEow&fullscreenOutput=true)
+<img width="723" height="583" alt="Screenshot 2026-05-24 234927" src="https://github.com/user-attachments/assets/b2640665-2186-4884-9f78-da47e558c49f" />
+
 
 ### 🔹 Sample Prediction
-![Prediction]([outputs/prediction.png](https://colab.research.google.com/drive/1BZvTD1BM8JWzCmVuEwzLq9tn6k5V_l3O#scrollTo=jDDCJ0BtYvJ5&fullscreenOutput=true))
+<img width="496" height="548" alt="Screenshot 2026-05-24 234714" src="https://github.com/user-attachments/assets/1a858cd9-71e8-4792-a542-7fae6bf78b5a" />
+
 
 ### 🔹 Confusion Matrix
-![Confusion Matrix](https://colab.research.google.com/drive/1BZvTD1BM8JWzCmVuEwzLq9tn6k5V_l3O#scrollTo=5zjVhc69aH91&fullscreenOutput=true)
+<img width="977" height="868" alt="Screenshot 2026-05-24 235632" src="https://github.com/user-attachments/assets/bf273ac4-87c2-4ced-8e0b-a5b4b91b5338" />
+
 
 ---
 
