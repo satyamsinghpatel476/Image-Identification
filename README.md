@@ -17,7 +17,7 @@ The goal is to analyze model performance, training behavior, and classification 
 ## 🎥 Demo / Output
 
 ### 🔹 Model Accuracy
-![Prediction](outputs/accuracy.png)https://colab.research.google.com/drive/1BZvTD1BM8JWzCmVuEwzLq9tn6k5V_l3O#scrollTo=mfx79oEbaCIX&fullscreenOutput=true
+![Prediction](/content/outputs/accuracy.png)https://colab.research.google.com/drive/1BZvTD1BM8JWzCmVuEwzLq9tn6k5V_l3O#scrollTo=mfx79oEbaCIX&fullscreenOutput=true
 
 ### 🔹 Model Loss
 ![Prediction](outputs/loss.png)https://colab.research.google.com/drive/1BZvTD1BM8JWzCmVuEwzLq9tn6k5V_l3O#scrollTo=Y6nKyiRjaEow&fullscreenOutput=true
