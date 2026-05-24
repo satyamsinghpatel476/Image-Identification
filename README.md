@@ -17,7 +17,8 @@ The goal is to analyze model performance, training behavior, and classification 
 ## 🎥 Demo / Output
 
 ### 🔹 Model Accuracy
-<img width="737" height="585" alt="Screenshot 2026-05-24 234649" src="https://github.com/user-attachments/assets/8faca707-6f17-4c82-8284-0aa140d2f74d" />
+<img width="738" height="584" alt="Screenshot 2026-05-24 234842" src="https://github.com/user-attachments/assets/5e64468d-1849-437b-a93f-d17b795b7d67" />
+
 
 
 ### 🔹 Model Loss
