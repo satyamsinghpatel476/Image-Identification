@@ -78,10 +78,10 @@ python main.py
 
 ## 📁 Project Structure
 
-├── main.py
-├── model.py
-├── outputs/
-├── README.md
+├── - main.py
+├── - model.py
+├── - outputs/
+├── - README.md
 
 ---
 
